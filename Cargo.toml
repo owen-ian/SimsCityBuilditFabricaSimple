@@ -1,0 +1,7 @@
+[package]
+name = "SimsCityProPlay"
+version = "0.1.0"
+authors = ["owen-ian <owen.rivig@gmail.com>"]
+edition = "2021"
+
+[dependencies]
